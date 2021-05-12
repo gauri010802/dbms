@@ -1,0 +1,18 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("log2.jpg");
+    font-family: sans-serif;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  
+
+}

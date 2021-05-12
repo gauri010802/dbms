@@ -1,0 +1,22 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url('log3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 50rem; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  
+
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: wheat;
+    opacity: 1; /* Firefox */
+  }
